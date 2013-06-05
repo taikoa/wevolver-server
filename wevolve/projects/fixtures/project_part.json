@@ -1,0 +1,30 @@
+[
+  {
+    "pk": 1,
+    "model": "projects.projectpart",
+    "fields": {
+      "created": "2013-01-22T08:45:38Z",
+      "title": "Project Part 1",
+      "modified_user": null,
+      "modified": "2013-01-22T08:45:38Z",
+      "project": 3,
+      "project_part": null,
+      "created_user": 1,
+      "order": 0
+    }
+  },
+  {
+    "pk": 2,
+    "model": "projects.projectpart",
+    "fields": {
+      "created": "2013-01-22T08:45:38Z",
+      "title": "Project Part 2",
+      "modified_user": null,
+      "modified": "2013-01-22T08:45:38Z",
+      "project": 1,
+      "project_part": null,
+      "created_user": 1,
+      "order": 0
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "fields": {
+            "created": "2013-01-15T11:03:23Z",
+            "created_user": 2,
+            "modified": null,
+            "modified_user": null,
+            "permission": 1,
+            "project": 3,
+            "user": 1
+        },
+        "model": "projects.userproject",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "created": "2013-01-15T11:03:23Z",
+            "created_user": 2,
+            "modified": null,
+            "modified_user": null,
+            "permission": 0,
+            "project": 3,
+            "user": 2
+        },
+        "model": "projects.userproject",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "created": "2013-01-15T11:03:23Z",
+            "created_user": 2,
+            "modified": null,
+            "modified_user": null,
+            "permission": 1,
+            "project": 1,
+            "user": 1
+        },
+        "model": "projects.userproject",
+        "pk": 3
+    }
+]

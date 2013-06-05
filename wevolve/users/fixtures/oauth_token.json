@@ -1,0 +1,13 @@
+[
+  {
+    "pk": 1,
+    "model": "oauth2.accesstoken",
+    "fields": {
+      "scope": 6,
+      "token": "d3d81362dd46f415f17e15211875e1d38bf75898",
+      "client": 1,
+      "user": 1,
+      "expires": "2014-04-29T15:13:26Z"
+    }
+  }
+]

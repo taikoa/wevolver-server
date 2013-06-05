@@ -1,0 +1,15 @@
+[
+  {
+    "pk": 1,
+    "model": "oauth2.client",
+    "fields": {
+      "name": "",
+      "url": "http://localhost:8000/",
+      "client_type": 0,
+      "redirect_uri": "http://localhost:8000/",
+      "user": 1,
+      "client_id": "da533981b181e3ddd496",
+      "client_secret": "0acddd3d2705f053b2f61c1e4e6522ae1f90c463"
+    }
+  }
+]

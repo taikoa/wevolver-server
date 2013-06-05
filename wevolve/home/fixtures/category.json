@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "home.category", "fields": {"name": "craft"}}, {"pk": 3, "model": "home.category", "fields": {"name": "design"}}, {"pk": 4, "model": "home.category", "fields": {"name": "software"}}, {"pk": 2, "model": "home.category", "fields": {"name": "web"}}]

@@ -1,0 +1,8 @@
+*.pyc
+*.sw?
+settings_local.py
+settings_test.py
+media/
+env/
+reports/
+CACHE/

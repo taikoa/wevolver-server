@@ -1,0 +1,28 @@
+[
+  {
+    "pk": 1,
+    "model": "project_parts.document",
+    "fields": {
+      "status": 0,
+      "created": "2013-04-09T13:25:42Z",
+      "text": "<h1>hola</h1>",
+      "modified_user": null,
+      "modified": null,
+      "project_part": 1,
+      "created_user": 1
+    }
+  },
+  {
+    "pk": 2,
+    "model": "project_parts.document",
+    "fields": {
+      "status": 0,
+      "created": "2013-04-09T14:07:02Z",
+      "text": "<h1>sadsadsa<br></h1><br><h1>Test</h1><br>asdasdsad<br><br><img alt=\"logo.png\" src=\"/media/documents/dd/ddb02af1ea9378e5619076abe125f1fa.png\">",
+      "modified_user": null,
+      "modified": null,
+      "project_part": 2,
+      "created_user": 1
+    }
+  }
+]

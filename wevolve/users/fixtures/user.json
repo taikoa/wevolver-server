@@ -1,0 +1,40 @@
+[
+    {
+        "fields": {
+            "date_joined": "2013-01-15T10:34:55Z",
+            "email": "javaguirre@wadobo.com",
+            "first_name": "",
+            "groups": [],
+            "is_active": true,
+            "is_staff": true,
+            "is_superuser": true,
+            "last_login": "2013-01-15T10:45:57Z",
+            "last_name": "",
+            "password": "pbkdf2_sha256$10000$xallVOWyVTin$ayJx9UWNfy761nrZ3fXCRC+vCplGGnPdKeqjf7XY5rA=",
+            "user_permissions": [],
+            "username": "javaguirre"
+        },
+        "model": "auth.user",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "date_joined": "2013-01-15T10:46:16Z",
+            "email": "django@javaguirre.net",
+            "first_name": "User",
+            "groups": [
+                1
+            ],
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false,
+            "last_login": "2013-01-15T10:46:16Z",
+            "last_name": "Test",
+            "password": "pbkdf2_sha256$10000$BN0uUSXC37jg$KD3Sr6wUCXKa9mstEgZHZgIVcOzdyVp90bVFnpmiVFY=",
+            "user_permissions": [],
+            "username": "user_test"
+        },
+        "model": "auth.user",
+        "pk": 2
+    }
+]

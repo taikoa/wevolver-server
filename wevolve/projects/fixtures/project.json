@@ -1,0 +1,36 @@
+[
+    {
+        "fields": {
+            "categories": [],
+            "created": "2013-01-15T11:03:23Z",
+            "created_user": 1,
+            "description": "test project description",
+            "image_name": "",
+            "image_original_name": "",
+            "licence": null,
+            "modified": "2013-01-15T11:03:23Z",
+            "tags": "python",
+            "title": "Test Project",
+            "type_field": 1
+        },
+        "model": "projects.project",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "categories": [],
+            "created": "2013-01-15T11:03:23Z",
+            "created_user": 1,
+            "description": "Open project description",
+            "image_name": "",
+            "image_original_name": "",
+            "licence": null,
+            "modified": "2013-01-15T11:03:23Z",
+            "tags": "python",
+            "title": "OPEN project",
+            "type_field": 0
+        },
+        "model": "projects.project",
+        "pk": 1
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "pk": 1,
+    "model": "project_parts.post",
+    "fields": {
+      "image_original_name": null,
+      "created": "2013-03-18T11:23:15Z",
+      "image_name": null,
+      "content": "hola",
+      "project_part": 1,
+      "created_user": 1
+    }
+  },
+  {
+    "pk": 2,
+    "model": "project_parts.post",
+    "fields": {
+      "image_original_name": null,
+      "created": "2013-03-18T11:23:15Z",
+      "image_name": null,
+      "content": "hola",
+      "project_part": 2,
+      "created_user": 1
+    }
+  }
+]
