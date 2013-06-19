@@ -1,0 +1,9 @@
+language: python
+python:
+    - "2.7"
+before_install:
+    - cp conf/custom_settings.py wevolve/settings_test.py
+install:
+    - pip install -r requirements.txt
+    - pip install -r requirements-testing.txt
+script: python manage.py jenkins
