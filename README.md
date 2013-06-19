@@ -1,7 +1,7 @@
 WEVOLVER
 ========
 
-[![Build Status](https://travis-ci.org/javaguirre/wevolver-server.png)](https://travis-ci.org/javaguirre/wevolver-server)
+[![Build Status](https://travis-ci.org/taikoa/wevolver-server.png)](https://travis-ci.org/taikoa/wevolver-server)
 
 Introduction
 ------------
