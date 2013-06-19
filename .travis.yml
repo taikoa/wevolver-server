@@ -3,6 +3,7 @@ python:
     - "2.7"
 before_install:
     - cp conf/custom_settings.py wevolve/settings_test.py
+    - mysql -e 'create database wevolve_test;'
 install:
     - pip install -r requirements.txt
     - pip install -r requirements-testing.txt
